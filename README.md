@@ -1,1 +1,1 @@
-# Exercícios com inteiros
+# Lista de exercícios com inteiros
