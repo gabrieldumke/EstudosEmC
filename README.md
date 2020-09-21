@@ -1,1 +1,1 @@
-# Exercícios com inteiros em C
+# Exercícios com inteiros
