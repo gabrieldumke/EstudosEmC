@@ -1,1 +1,1 @@
-# EstudosEmC
+# Exercícios com inteiros em C
